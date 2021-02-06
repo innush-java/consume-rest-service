@@ -11,3 +11,9 @@ You can start testing Once the service is up...
 2.  http://localhost:8080/invokeAndReturnResponseObject --> This will return POJO class --> {"userId":1,"id":1,"title":"delectus aut autem","completed":false}
 3.  http://localhost:8080/invokeAndReturnResponseObjectList --> This will return List of objects or array of objects. --> 
 
+{"userId":1,"id":1,"title":"delectus aut autem","completed":false},
+{"userId":1,"id":2,"title":"quis ut nam facilis et officia qui","completed":false},
+{"userId":1,"id":3,"title":"fugiat veniam minus","completed":false},
+{"userId":1,"id":4,"title":"et porro tempora","completed":true}
+]
+
